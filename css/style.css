@@ -204,3 +204,16 @@ li {
 	width: 100%;
 	margin: 40px auto;
 }
+
+.btn-danger {
+  border: 3px solid #d9534f;
+  color: #d9534f;
+  background-color: transparent;
+  transition: background-color 0.5s ease;
+}
+
+.btn-danger:hover {
+  border: 3px solid #d9534f;
+  color: #fff;
+  background-color: #d9534f;
+}
